@@ -1,4 +1,4 @@
-# HMM Speech Recognition
+# HMM Speech Recognition :microphone:
 
 ## Training a hidden Markov model through expectation-maximization, using Baum-Welch formulae, for applications in speech recognition.
 
